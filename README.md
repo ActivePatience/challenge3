@@ -1,1 +1,1 @@
-# challenge3
+The third homework assignment.
